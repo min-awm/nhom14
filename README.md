@@ -4,4 +4,4 @@
 
 Mã nguồn được viết dựa trên [đây](https://github.com/subins2000/simple-peer-files)
 
-Lên hệ : minhdeptraikl@gmail.com 
+Liên hệ : minhdeptraikl@gmail.com 
